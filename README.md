@@ -61,8 +61,9 @@ Models are evaluated on the test set using precision, recall, F1 score, and a fu
 
 ```
 .
-├── Pozzo_logistic_regression.ipynb        # Main analysis notebook
-├── Pozzo_logistic_regression_slides.pdf   # Presentation slides
+├── model.ipynb                            # Main analysis notebook
+├── Technical_Presentation.pdf             # Presentation slides
+├── Pozzo_logit_theory.pdf                 # Theoretical introduction slides
 ├── Data Scientist Take Home Exam - Instructions.pdf
 └── description_of_the_dataset .pdf
 ```
